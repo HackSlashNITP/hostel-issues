@@ -1,3 +1,4 @@
+![hacktoberfest](https://img.shields.io/badge/hacktoberfest-green?style=flat)
 # Hostel Issue
 
 Hostel Issue is an innovative web application that aims to revolutionize the complaint system in hostels, providing a modern e-complaint platform for hostel residents and administrators. This platform allows hostel residents to easily report, view, and manage their complaints, while administrators can efficiently address and monitor these issues.
